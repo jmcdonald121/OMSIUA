@@ -1,2 +1,2 @@
 # OMSIUA
-Ohio Mine Subsidence Insurance Underwriters Association AUM App
+Ohio Mine Subsidence Insurance Underwriters Association AUM GIS App
